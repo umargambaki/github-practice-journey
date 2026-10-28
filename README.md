@@ -1,2 +1,2 @@
-# github-practice-journey
-my practice journey learning github
+hello my name is umar.
+I am a computer science student learning git and github.
